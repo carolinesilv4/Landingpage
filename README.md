@@ -1,2 +1,2 @@
 # Landingpage
-Projeto de LP desenvolvido em mentoria. 
+Projeto de LP do projeto Mulheres no Código
